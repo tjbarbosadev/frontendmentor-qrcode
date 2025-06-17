@@ -35,15 +35,15 @@ body {
   background-color: white;
   padding: var(--spacing-200) var(--spacing-200) var(--spacing-500);
   gap: var(--spacing-200);
-  border-radius: 20px;
-  max-width: 320px;
+  border-radius: 1.25rem;
+  max-width: 20rem;
   text-align: center;
 }
 
 .card__image {
   display: inline-block;
   width: 100%;
-  border-radius: 10px;
+  border-radius: 0.625rem;
   overflow: hidden;
 }
 
