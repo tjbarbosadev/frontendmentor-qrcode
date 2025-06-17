@@ -29,6 +29,10 @@ body {
   justify-content: center;
 }
 
+main {
+  box-shadow: 0rem 1.563rem 1.563rem 0rem #0000000c;
+}
+
 .card {
   display: flex;
   flex-direction: column;
