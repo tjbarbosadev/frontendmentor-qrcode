@@ -1,2 +1,0 @@
-# frontendmentor-qrcode
-# frontendmentor-qrcode
