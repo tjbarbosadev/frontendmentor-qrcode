@@ -65,5 +65,5 @@ body {
   color: var(--slate-500);
   font: var(--text-preset-2);
   font-weight: 400;
-  letter-spacing: 0.2px;
+  letter-spacing: 0.0125rem;
 }
